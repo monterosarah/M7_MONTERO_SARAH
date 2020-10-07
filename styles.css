@@ -118,32 +118,49 @@ section {
 
 article {
     margin-top: -80px;
-    width: 600px;
-    margin-left: 8.5%;
+    width: 590px;
+    margin-left: 9%;
 }
 
 label {
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
     color: #2e294e;
 }
 
 input {
     margin-bottom: 30px;
-    width: 578px;
+    width: 575px;
     height: 25px;
     caret-color: #1b998b;
     font-family: Helvetica, sans-serif;
-    font-size: 1em;
+    font-size: .8em;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .lname, .fname {
     float: left;
-    width: 275px;
+    width: 270px;
 }
 
 .lname {
     margin-top: -36px;
     margin-left: 20px;
+}
+
+legend {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2e294e;
+}
+
+textarea {
+    width: 565px;
+    height: 150px;
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+    caret-color: #1b998b;
+    padding: 10px;
 }
 
 /* Aside */
