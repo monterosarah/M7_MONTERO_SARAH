@@ -117,10 +117,10 @@ section {
 /* Contact Form */
 
 article {
-    margin-top: -100px;
-    margin-right: 70px;
+    margin-top: -250px;
+    margin-right: 100px;
     float: right;
-    width: 590px;
+    width: 540px;
     margin-left: 9%;
 }
 
@@ -132,7 +132,7 @@ label {
 
 input {
     margin-bottom: 30px;
-    width: 570px;
+    width: 520px;
     height: 25px;
     caret-color: #1b998b;
     font-family: Helvetica, sans-serif;
@@ -143,7 +143,7 @@ input {
 
 .lname, .fname {
     float: left;
-    width: 265px;
+    width: 240px;
 }
 
 .lname {
@@ -157,7 +157,7 @@ legend {
 }
 
 textarea {
-    width: 568px;
+    width: 518px;
     height: 150px;
     font-family: Helvetica, sans-serif;
     font-size: 1em;
