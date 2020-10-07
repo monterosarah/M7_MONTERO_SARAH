@@ -163,6 +163,10 @@ textarea {
     padding: 10px;
 }
 
+input[type=submit], input[type=reset] {
+    width: 100px;
+}
+
 /* Aside */
 
 aside {
