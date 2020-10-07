@@ -114,6 +114,38 @@ section {
     margin-left: -5%;
 }
 
+/* Contact Form */
+
+article {
+    margin-top: -80px;
+    width: 600px;
+    margin-left: 8.5%;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2e294e;
+}
+
+input {
+    margin-bottom: 30px;
+    width: 578px;
+    height: 25px;
+    caret-color: #1b998b;
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+.lname, .fname {
+    float: left;
+    width: 275px;
+}
+
+.lname {
+    margin-top: -36px;
+    margin-left: 20px;
+}
+
 /* Aside */
 
 aside {
