@@ -152,18 +152,20 @@ input {
 }
 
 #about {
-    width: 540px;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
 }
 
 #about label {
+    padding-right: 21px;
+    text-align: left;
     float: left;
-    margin-right: 18px;
+    margin-top: 7px;
+    margin-left: 5px;
 }
 
 #about input{
     float: left;
-    width: 15px;
+    width: 17px;
 }
 
 legend {
