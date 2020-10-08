@@ -151,11 +151,11 @@ input {
     margin-left: 20px;
 }
 
-#about {
-    margin-bottom: 100px;
+.about {
+    margin-bottom: 70px;
 }
 
-#about label {
+.about label {
     padding-right: 21px;
     text-align: left;
     float: left;
@@ -163,7 +163,7 @@ input {
     margin-left: 5px;
 }
 
-#about input{
+.about input{
     float: left;
     width: 17px;
 }
