@@ -152,7 +152,7 @@ input {
 }
 
 .inquire {
-    margin-bottom: 100px;
+    margin-bottom: 75px;
 }
 
 .inquire label {
@@ -171,6 +171,10 @@ input {
 legend {
     font-family: Arial, Helvetica, sans-serif;
     color: #2e294e;
+}
+
+#topic {
+    margin-top: 100px;
 }
 
 textarea {
